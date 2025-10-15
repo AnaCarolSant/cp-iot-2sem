@@ -1,6 +1,6 @@
 # CP-IOT - Repositório do Segundo Semestre
 
-Este repositório contém dois projetos desenvolvidos no segundo semestre relacionados a inteligência artificial aplicada a IoT e visão computacional:
+Este repositório contém dois projetos desenvolvidos para o Checkpoint relacionados a inteligência artificial aplicada e visão computacional:
 
 - redes neurais (notebook em `redes-neurais/redes_neurais_wine.ipynb`)
 - visão computacional (notebook em `visao-computacional/visão_computacional_fruits.ipynb` e pasta `visao-computacional/imagem-reconhecer`)
@@ -9,11 +9,9 @@ Este repositório contém dois projetos desenvolvidos no segundo semestre relaci
 
 Lista de RMs dos integrantes:
 
-- RM: [insira aqui o RM do integrante 1]
-- RM: [insira aqui o RM do integrante 2]
-- RM: [insira aqui o RM do integrante 3]
-
-> Observação: substitua os itens acima pelos RMs reais dos integrantes do grupo.
+- Ana Carolina Reis Santana (RM: RM556219)
+- Leticia Zago (RM: 558464)
+- Pedro Henrique Mendonça (RM: 555276)
 
 ## Projeto 1 — Redes Neurais
 
@@ -128,12 +126,3 @@ pip install ultralytics roboflow opencv-python-headless
 - `visao-computacional/visão_computacional_fruits.ipynb` — notebook do projeto de visão computacional
 - `visao-computacional/imagem-reconhecer/` — scripts e recursos auxiliares para o projeto de visão
 
-## Como contribuir
-
-1. Atualize os notebooks com comentários claros.
-2. Inclua os RMs reais na seção de Integrantes.
-3. Se for adicionar o dataset ao repositório, coloque-o em `visao-computacional/dataset/` ou documente onde ele está hospedado (por exemplo, link do Roboflow ou Google Drive).
-
----
-
-Se quiser, eu posso também preencher automaticamente a lista de RMs se você me fornecer os números, ou preparar um notebook Colab pronto para executar o treinamento com o dataset (basta me informar onde o dataset está hospedado - Google Drive, link do Roboflow export, ou arquivo ZIP).
